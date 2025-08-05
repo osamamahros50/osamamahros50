@@ -1,9 +1,23 @@
 # 👋 Hi there, I'm Osama Mahrous
 
 ## 🚀 About Me
-💻 Front-End Developer | React | Next.js  
-🎯 Passionate about building modern, responsive, and user-friendly web applications.  
-🌱 Always learning new technologies and improving my skills.
+🎯 Aspiring Front-End Developer (**React | JavaScript | TypeScript**)  
+💡 Passionate about **UI/UX**, **Performance**, and **Responsive Design**  
+🚀 Focused on building **clean** and **dynamic** user experiences  
+
+---
+
+## 💼 What I've Focused On So Far
+🧠 Strong grasp of **Frontend Technologies** and modern frameworks  
+💻 Solid foundation in **JavaScript**, **DOM manipulation**, and **React architecture**  
+⚙️ Experience working with **Git**, **GitHub**, and project version control  
+
+---
+
+## 🚀 Frontend Development Journey
+✅ Mastered **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**  
+🔄 Practiced extensively with **React.js**, **React Router**, and **Redux Toolkit**  
+🌐 Currently learning **TypeScript** and **Next.js**  
 
 ---
 
