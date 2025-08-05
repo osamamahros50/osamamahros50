@@ -42,9 +42,9 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](www.linkedin.com/in/osama-mahros-b45498343L)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=fff)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](osamamahros30@gmail.com)
 
 ---
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+💡 *"Strive for clean code and pixel-perfect designs."*
