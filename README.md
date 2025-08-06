@@ -43,11 +43,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/osama-mahros-b45498343L)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/osama-mahros-b45498343)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=fff)](https://portofolio-rose-rho.vercel.app/)
+[[Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=fff)](https://portofolio-rose-rho.vercel.app/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:osamamahros30@gmail.com)
+[[Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:osamamahros30@gmail.com)
 
 
 ---
