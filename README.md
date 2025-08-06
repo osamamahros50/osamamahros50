@@ -43,7 +43,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/osama-mahros-b45498343" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
